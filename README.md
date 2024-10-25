@@ -111,7 +111,7 @@ The database for the patient application is structured to manage users, clinics,
 
 ## Frontend Repository
 
-The frontend for this application is located in a separate repository. You can find it at: [Patient Application Frontend](). This repository contains all the necessary components for the user interface, allowing users to interact with the backend services provided by this application.
+The frontend for this application is located in a separate repository. You can find it at: [Patient Application Frontend](https://github.com/meshawi/Patient-Application-Frontend.git). This repository contains all the necessary components for the user interface, allowing users to interact with the backend services provided by this application.
 
 
 ## Validators
